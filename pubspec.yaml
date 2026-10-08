@@ -1,0 +1,17 @@
+name: english_practice
+description: AI English communication practice app.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_secure_storage: ^9.2.2
+  flutter_tts: ^4.2.5
+  http: ^1.2.2
+  image_picker: ^1.2.4
+  speech_to_text: ^7.5.0
+  youtube_player_iframe: ^6.0.2
+flutter:
+  uses-material-design: true
